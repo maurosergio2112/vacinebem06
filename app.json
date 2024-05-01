@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "vacinebem06",
+    "slug": "vacinebem06",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
